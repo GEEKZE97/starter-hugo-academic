@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yanze Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate of Mechnical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Dalian University of China
+  url: http://en.dlut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed robotics, computer vision, mobile computing, intelligent manufacturing and electrical controlling.
 
 # Interests to show in About widget
 interests:
