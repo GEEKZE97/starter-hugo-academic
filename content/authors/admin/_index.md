@@ -74,6 +74,5 @@ Yanze Zhang is a master student of mechanical engineering at the Dalian Univeris
 
 Rich project and competition experience has cultivated his team spirit and endurance, developed a rigorous and realistic attitude, in the face of problems can be quickly reflected. Be able to actively face the pressure, good start and end.
 
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
