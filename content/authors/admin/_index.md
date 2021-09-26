@@ -70,8 +70,10 @@ email: "geekze97@gmail.com"
 highlight_name: true
 ---
 
-Yanze Zhang is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yanze Zhang is a master student of mechanical engineering at the Dalian Univerisity of China. He got his B.S. degree from China University of Petroleum. His research interests include robotics, stereo vision, intelligence manufacturing, electrical control and sensors fusion. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Rich project and competition experience has cultivated his team spirit and endurance, developed a rigorous and realistic attitude, in the face of problems can be quickly reflected. Be able to actively face the pressure, good start and end.
+
+#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
