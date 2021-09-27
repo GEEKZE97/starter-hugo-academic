@@ -39,7 +39,7 @@ abstract: Robot end effector localization is very important in undertaking high-
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
