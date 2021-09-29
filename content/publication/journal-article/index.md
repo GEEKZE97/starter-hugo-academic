@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: example.pdf
+url_pdf: A Rough to Fine Method for Industrial Robot Sensing and High-precision Guidance.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
