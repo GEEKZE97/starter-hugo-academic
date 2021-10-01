@@ -17,8 +17,15 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: 60%
   icon: r-project
-  name: R
+  name: C++
+- description: 70%
+  icon: r-project
+  name: Matlab
 - description: 100%
   icon: chart-line
   name: Statistics
