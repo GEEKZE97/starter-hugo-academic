@@ -9,8 +9,8 @@ authors:
 - Yi Yue
 
 # author_notes:
- - "Equal contribution"
- - "Equal contribution"
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2021"
 doi: ""
 
