@@ -23,7 +23,7 @@ twitter: ''
 email: geekze97@gmail.com
 # phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
+  street: Ganjingzi district
   city: Dalian
   region: Liaoning
   postcode: '116024'
@@ -36,24 +36,24 @@ directions: Zhifang Building and take the elevator to Office 7072 on Floor 7
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+#appointment_url: 'https://calendly.com'
+#contact_links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: DM Me
+#    link: 'https://twitter.com/Twitter'
+#  - icon: skype
+#    icon_pack: fab
+#    name: Skype Me
+#    link: 'skype:echo123?call'
+#  - icon: keybase
+#    icon_pack: fab
+#    name: Chat on Keybase
+#    link: 'https://keybase.io/'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#   link: 'https://discourse.gohugo.io'
 
 # Site header
 
