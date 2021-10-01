@@ -10,7 +10,7 @@ role: PhD Candidate of Mechanical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Dalian University of China
+- name: Dalian University of Technology
   url: http://en.dlut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
